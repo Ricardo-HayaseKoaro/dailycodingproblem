@@ -1,3 +1,2 @@
 # dailycodingproblem
-
-Problems and solution of https://www.dailycodingproblem.com
+my solutions of https://www.dailycodingproblem.com
